@@ -62,14 +62,6 @@ Follow these steps to write the bootloader to a bootable disk:
 
    **Note:** Be extremely careful to specify the correct device name to avoid accidentally overwriting important data.
 
-## Limitations and Customization
-
-This bootloader is a minimal example and lacks advanced features or error checking. It is intended to demonstrate the basic structure
-
- and flow of a bootloader written in NASM. You can customize and extend the code to fit your specific needs.
-
-For more information on bootloader development and x86 assembly language, refer to relevant documentation and online resources.
-
 ## License
 
 This code is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
